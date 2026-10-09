@@ -1,6 +1,6 @@
 cask "ai-usage" do
-  version "1.0.3,7"
-  sha256 "22ffec8012f2b2b57ff00f6980789f872613acb8645b0b0e6af5daa73017c8a1"
+  version "1.0.4,8"
+  sha256 "d6e248048938e963d0e32b43407ee68f831f2c01b0d1f821a52e04b8e678f5b8"
 
   url "https://github.com/tuckerritti/ai-usage-menu-bar/releases/download/v#{version.csv.first}/AI-Usage-#{version.csv.first}-#{version.csv.second}.dmg"
   name "AI Usage"
